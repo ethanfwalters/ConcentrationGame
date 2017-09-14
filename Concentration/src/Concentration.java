@@ -14,7 +14,11 @@ public class Concentration
 				concentrationGame [0][3] = "half";
 				concentrationGame [1][0] = "discovery";
 				concentrationGame [1][1] = "gadget";
-				concentrationGame [][] = "";
+				concentrationGame [1][2] = "actor";
+				concentrationGame [1][3] = "scared";
+				concentrationGame [2][0] = "glass";
+				concentrationGame [2][1] = "dual";
+				concentrationGame [2][] = "";
 
 			}
 
